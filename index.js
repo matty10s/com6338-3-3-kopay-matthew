@@ -37,7 +37,6 @@ var questionsArr = [
     }
 ]
 
-
 function runQuiz() {
     var answersArr = [7];
     for(let i = 0; i < questionsArr.length; i++) {
